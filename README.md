@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Rahul Das
-#### Computer Science & Engineering Student
+# Hi there 👋, I'm Rahul Das
+### Computer Science & Engineering Student
 ![Computer Science & Engineering Student](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/241258348_1196721250814280_8318584174174460002_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=174925&_nc_eui2=AeHDOq8f73elN6NXXydfwBESUMcqqTqlyO1QxyqpOqXI7UV3QAWlFtzvYPlsoC_66mcJG8M5aPXdWkApDmeRtSLb&_nc_ohc=yB6mdhaLZakAX--m-T_&_nc_ht=scontent.fdac24-2.fna&oh=00_AfBN_mvYRd6leXBRddcbd52hDWT-2uXi_VB5q4TYyLrQbw&oe=63727876)
 
 Currently I am a last semester student of AIUB. My subject is CSE. I am interested in computer networking ,software quality testing and also mathematics and learning new things. I love to play any kind of games but football and cricket more. I also like to listen music and watching movie. 
