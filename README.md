@@ -7,7 +7,7 @@ Currently I am a last semester student of AIUB. My subject is CSE. I am interest
 Skills: HTML/Computer networking/Malware analysis/Ip addressing/Network security/SDLC/Python/Java/C++
 
 - 🔭 I’m currently working on Full time Student. 
-- 🌱 I’m currently learning Network and Cyber security 
+- 🌱 I’m currently learning Computer Networking and Cyber security 
 - 👯 I’m looking to collaborate on Github 
 - 🤔 I’m looking for help with any Cyber & Network security issue. 
 - 📫 How to reach me: kanonrahul303@gmail.com 
