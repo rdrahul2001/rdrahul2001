@@ -2,7 +2,7 @@
 ### Computer Science & Engineering Student
 ![Computer Science & Engineering Student](https://scontent.fdac24-3.fna.fbcdn.net/v/t39.30808-6/375057426_1670145986805135_3949178647429044986_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeHQknIkOm-NpF-bvfJQ7y1xYGmTeYvCKuVgaZN5i8Iq5UkM_WHN_Y6cc3CxjMbEvqKF75wrN0da8n1MPNRM-qIv&_nc_ohc=320-L6VN3fwAX-q4eXa&_nc_ht=scontent.fdac24-3.fna&oh=00_AfDb4ttIAsSsqd9fQIajXfgBtgQMfLc1ys9lFec8aQKk5g&oe=6528FF9E)
 
-Currently I am a last semester student of AIUB. My subject is CSE. I am interested in computer networking ,software quality testing and also mathematics and learning new things. I love to play any kind of games but football and cricket more. I also like to listen music and watching movie. 
+I have completed my undergraduate degree from AIUB in Computer Sceience & Engineering. I am interested in computer networking ,software quality testing and also mathematics and learning new things. I love to play any kind of games but football and cricket most. I also like to listen music and watching movie. 
 
 Skills: HTML/Computer networking/Malware analysis/Ip addressing/Network security/SDLC/Python/Java/C++
 
